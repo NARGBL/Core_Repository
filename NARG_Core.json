@@ -15,7 +15,7 @@
 			"channels" : [
 				{
 					"name" : "*",
-					"version" : "3.0.0-beta"
+					"version" : "3.0.0-beta",
 					"file" : "http://raw.githubusercontent.com/NARGBL/Core_Repository/master/Client_TMBI.zip"
 				}
 			]
