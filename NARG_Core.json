@@ -1,0 +1,33 @@
+{
+	"name" : "NARG Core Mods",
+	"add-ons" : [
+		{
+			"name" : "Client_BuildBot",
+			"channels" : [
+				{
+					"name" : "*",
+					"version" : "3.1.0",
+					"file" : "http://raw.githubusercontent.com/NARGBL/Core_Repository/master/Client_BuildBot.zip"
+				}
+			]
+		}, {
+			"name" : "Client_TMBI",
+			"channels" : [
+				{
+					"name" : "*",
+					"version" : "3.0.0-beta"
+					"file" : "http://raw.githubusercontent.com/NARGBL/Core_Repository/master/Client_TMBI.zip"
+				}
+			]
+		}, {
+			"name" : "Client_NFM",
+			"channels" : [
+				{
+					"name" : "*",
+					"version" : "1.4.2",
+					"file" : "http://raw.githubusercontent.com/NARGBL/Core_Repository/master/Client_NFM.zip"
+				}
+			]
+		}
+	]
+}
